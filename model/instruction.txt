@@ -1,0 +1,11 @@
+Base pre-trained Model link -> https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main 
+This model is a fine-tuned version of the LLaMA-2-7B model,
+which is a 7 billion parameter model trained on a large corpus of text data.
+The model is trained on a dataset of chat logs, and is designed to generate human-like responses to
+user input.
+
+Vector Database -> https://app.pinecone.io/
+
+For Embedding, 
+sentence transformer -> https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+This model is a variant of the BERT model, but with a smaller architecture and fewer parameters.
